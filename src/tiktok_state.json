@@ -1,0 +1,20 @@
+{
+  "cookies": [
+    {
+      "name": "sessionid",
+      "value": "2b00118a9fe1620759eb913acd06e55a",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "name": "sid_tt",
+      "value": "2b00118a9fe1620759eb913acd06e55a",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "httpOnly": true,
+      "secure": true
+    }
+  ]
+}
